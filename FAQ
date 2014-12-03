@@ -1,0 +1,2 @@
+# checkout a repository from command line
+cd /tmp; git clone https://github.com/baluneboy/towelstuff.git
